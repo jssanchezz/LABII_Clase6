@@ -1,0 +1,9 @@
+D:\Sanchez Juan\Clase 6\Proyecto\Ejercicio 3 Ferrete Facturacion\Ejercicio 3 Ferrete Facturacion\bin\Debug\Ejercicio 3 Ferrete Facturacion.exe.config
+D:\Sanchez Juan\Clase 6\Proyecto\Ejercicio 3 Ferrete Facturacion\Ejercicio 3 Ferrete Facturacion\bin\Debug\Ejercicio 3 Ferrete Facturacion.exe
+D:\Sanchez Juan\Clase 6\Proyecto\Ejercicio 3 Ferrete Facturacion\Ejercicio 3 Ferrete Facturacion\bin\Debug\Ejercicio 3 Ferrete Facturacion.pdb
+D:\Sanchez Juan\Clase 6\Proyecto\Ejercicio 3 Ferrete Facturacion\Ejercicio 3 Ferrete Facturacion\obj\Debug\Ejercicio 3 Ferrete Facturacion.csprojResolveAssemblyReference.cache
+D:\Sanchez Juan\Clase 6\Proyecto\Ejercicio 3 Ferrete Facturacion\Ejercicio 3 Ferrete Facturacion\obj\Debug\Ejercicio_3_Ferrete_Facturacion.Form1.resources
+D:\Sanchez Juan\Clase 6\Proyecto\Ejercicio 3 Ferrete Facturacion\Ejercicio 3 Ferrete Facturacion\obj\Debug\Ejercicio_3_Ferrete_Facturacion.Properties.Resources.resources
+D:\Sanchez Juan\Clase 6\Proyecto\Ejercicio 3 Ferrete Facturacion\Ejercicio 3 Ferrete Facturacion\obj\Debug\Ejercicio 3 Ferrete Facturacion.csproj.GenerateResource.Cache
+D:\Sanchez Juan\Clase 6\Proyecto\Ejercicio 3 Ferrete Facturacion\Ejercicio 3 Ferrete Facturacion\obj\Debug\Ejercicio 3 Ferrete Facturacion.exe
+D:\Sanchez Juan\Clase 6\Proyecto\Ejercicio 3 Ferrete Facturacion\Ejercicio 3 Ferrete Facturacion\obj\Debug\Ejercicio 3 Ferrete Facturacion.pdb

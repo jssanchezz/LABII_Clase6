@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ejercicio_1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Dolar unD;
+            Peso unP;
+
+            unD = 1;
+
+            unP = (Peso)1;
+
+            unP = unP + unD;
+
+            Console.Write(unP.cantidad);
+
+            Console.ReadKey();
+        }
+    }
+}
