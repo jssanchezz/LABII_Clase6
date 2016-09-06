@@ -7,3 +7,12 @@ D:\Sanchez Juan\Clase 6\Proyecto\Ejercicio 3 Ferrete Facturacion\Ejercicio 3 Fer
 D:\Sanchez Juan\Clase 6\Proyecto\Ejercicio 3 Ferrete Facturacion\Ejercicio 3 Ferrete Facturacion\obj\Debug\Ejercicio 3 Ferrete Facturacion.csproj.GenerateResource.Cache
 D:\Sanchez Juan\Clase 6\Proyecto\Ejercicio 3 Ferrete Facturacion\Ejercicio 3 Ferrete Facturacion\obj\Debug\Ejercicio 3 Ferrete Facturacion.exe
 D:\Sanchez Juan\Clase 6\Proyecto\Ejercicio 3 Ferrete Facturacion\Ejercicio 3 Ferrete Facturacion\obj\Debug\Ejercicio 3 Ferrete Facturacion.pdb
+C:\Users\Juan\Documents\GitHub\Facultad\Clases\LABII_Clase6\Ejercicio 3 Ferrete Facturacion\Ejercicio 3 Ferrete Facturacion\bin\Debug\Ejercicio 3 Ferrete Facturacion.exe.config
+C:\Users\Juan\Documents\GitHub\Facultad\Clases\LABII_Clase6\Ejercicio 3 Ferrete Facturacion\Ejercicio 3 Ferrete Facturacion\obj\Debug\Ejercicio 3 Ferrete Facturacion.exe
+C:\Users\Juan\Documents\GitHub\Facultad\Clases\LABII_Clase6\Ejercicio 3 Ferrete Facturacion\Ejercicio 3 Ferrete Facturacion\obj\Debug\Ejercicio 3 Ferrete Facturacion.pdb
+C:\Users\Juan\Documents\GitHub\Facultad\Clases\LABII_Clase6\Ejercicio 3 Ferrete Facturacion\Ejercicio 3 Ferrete Facturacion\bin\Debug\Ejercicio 3 Ferrete Facturacion.exe
+C:\Users\Juan\Documents\GitHub\Facultad\Clases\LABII_Clase6\Ejercicio 3 Ferrete Facturacion\Ejercicio 3 Ferrete Facturacion\bin\Debug\Ejercicio 3 Ferrete Facturacion.pdb
+C:\Users\Juan\Documents\GitHub\Facultad\Clases\LABII_Clase6\Ejercicio 3 Ferrete Facturacion\Ejercicio 3 Ferrete Facturacion\obj\Debug\Ejercicio 3 Ferrete Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\GitHub\Facultad\Clases\LABII_Clase6\Ejercicio 3 Ferrete Facturacion\Ejercicio 3 Ferrete Facturacion\obj\Debug\Ejercicio_3_Ferrete_Facturacion.Form1.resources
+C:\Users\Juan\Documents\GitHub\Facultad\Clases\LABII_Clase6\Ejercicio 3 Ferrete Facturacion\Ejercicio 3 Ferrete Facturacion\obj\Debug\Ejercicio_3_Ferrete_Facturacion.Properties.Resources.resources
+C:\Users\Juan\Documents\GitHub\Facultad\Clases\LABII_Clase6\Ejercicio 3 Ferrete Facturacion\Ejercicio 3 Ferrete Facturacion\obj\Debug\Ejercicio 3 Ferrete Facturacion.csproj.GenerateResource.Cache

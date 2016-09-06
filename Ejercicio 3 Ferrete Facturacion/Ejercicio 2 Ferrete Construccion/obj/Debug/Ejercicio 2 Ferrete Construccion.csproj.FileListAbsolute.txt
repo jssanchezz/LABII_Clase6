@@ -1,0 +1,9 @@
+C:\Users\Juan\Documents\GitHub\Facultad\Clases\LABII_Clase6\Ejercicio 3 Ferrete Facturacion\Ejercicio 2 Ferrete Construccion\bin\Debug\Ejercicio 2 Ferrete Construccion.exe.config
+C:\Users\Juan\Documents\GitHub\Facultad\Clases\LABII_Clase6\Ejercicio 3 Ferrete Facturacion\Ejercicio 2 Ferrete Construccion\bin\Debug\Ejercicio 2 Ferrete Construccion.exe
+C:\Users\Juan\Documents\GitHub\Facultad\Clases\LABII_Clase6\Ejercicio 3 Ferrete Facturacion\Ejercicio 2 Ferrete Construccion\bin\Debug\Ejercicio 2 Ferrete Construccion.pdb
+C:\Users\Juan\Documents\GitHub\Facultad\Clases\LABII_Clase6\Ejercicio 3 Ferrete Facturacion\Ejercicio 2 Ferrete Construccion\obj\Debug\Ejercicio 2 Ferrete Construccion.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\GitHub\Facultad\Clases\LABII_Clase6\Ejercicio 3 Ferrete Facturacion\Ejercicio 2 Ferrete Construccion\obj\Debug\Ejercicio_2_Ferrete_Construccion.Form1.resources
+C:\Users\Juan\Documents\GitHub\Facultad\Clases\LABII_Clase6\Ejercicio 3 Ferrete Facturacion\Ejercicio 2 Ferrete Construccion\obj\Debug\Ejercicio_2_Ferrete_Construccion.Properties.Resources.resources
+C:\Users\Juan\Documents\GitHub\Facultad\Clases\LABII_Clase6\Ejercicio 3 Ferrete Facturacion\Ejercicio 2 Ferrete Construccion\obj\Debug\Ejercicio 2 Ferrete Construccion.csproj.GenerateResource.Cache
+C:\Users\Juan\Documents\GitHub\Facultad\Clases\LABII_Clase6\Ejercicio 3 Ferrete Facturacion\Ejercicio 2 Ferrete Construccion\obj\Debug\Ejercicio 2 Ferrete Construccion.exe
+C:\Users\Juan\Documents\GitHub\Facultad\Clases\LABII_Clase6\Ejercicio 3 Ferrete Facturacion\Ejercicio 2 Ferrete Construccion\obj\Debug\Ejercicio 2 Ferrete Construccion.pdb

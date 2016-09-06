@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 3 Ferrete Facturacion", "Ejercicio 3 Ferrete Facturacion\Ejercicio 3 Ferrete Facturacion.csproj", "{0FC3E2A9-8418-4427-AF8D-8EEDB660F9E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 2 Ferrete Construccion", "Ejercicio 2 Ferrete Construccion\Ejercicio 2 Ferrete Construccion.csproj", "{1B94B601-2995-46BF-8B30-14898D952352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 3 Temperatura", "Ejercicio 3 Temperatura\Ejercicio 3 Temperatura.csproj", "{B17A5B11-B752-45C6-A638-250299A6D439}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{0FC3E2A9-8418-4427-AF8D-8EEDB660F9E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FC3E2A9-8418-4427-AF8D-8EEDB660F9E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FC3E2A9-8418-4427-AF8D-8EEDB660F9E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B94B601-2995-46BF-8B30-14898D952352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B94B601-2995-46BF-8B30-14898D952352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B94B601-2995-46BF-8B30-14898D952352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B94B601-2995-46BF-8B30-14898D952352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B17A5B11-B752-45C6-A638-250299A6D439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17A5B11-B752-45C6-A638-250299A6D439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B17A5B11-B752-45C6-A638-250299A6D439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17A5B11-B752-45C6-A638-250299A6D439}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
